@@ -1,0 +1,17 @@
+---
+layout: post
+title:  " What pushed me to code? "
+date:   2017-09-05 21:06:38 +0000
+---
+
+
+Growing up I had sales aptitudes that led me to a career in sales and marketing. I always had a passion for business and I loved to read biographies on successful men and women. I never had a hard time speaking to strangers or making new friends. So naturally I excelled in my sales career, thus convincing me as a younger man that this is what I had to do for the rest of my life. I had this credo that basically told me that if you are naturally good at something, then that's what you were born to do, which as a slightly older man I now know how limiting that mindset can be. It basically left me to my initial abilities to dictate how the rest of my life will be. If that was the way all people thought, then that would mean that no one would ever strive to be different. It would mean that we would all be these static people equipped with the original initialized data, but that's not the case. We are humans. We are dynamic and constantly modifying.
+
+I began to feel the invariability of a career in sales. Although I was talking to new people everyday, nothing changed. It all felt the same; the routine, the quotas, and even my conversations were all the same because they were scripted pitches that led people to say the same things. In the end, I also realized I had to get behind another mans dreams and sell their dreams for them. Selling windows, heath insurance, etc didn’t make me tic inside; I actually could fall asleep now thinking about them. So I began to think; if knowledge or skill wasn’t a factor, what would I do? This thought kind of got tossed around for a little bit and I kept feeding different arguments into this proverbial boolean expression. One thing I realized was that I love to create things. From cooking dinner to starting businesses, I knew creative expression had to be apart of my life’s work. It all came together in time and I began to realize that I always loved technology. When everyone had their Nokia bricks, I had a Palm Treo 650. I dreamed about the abilities of the future models of the Treo’s; now the minor features of our smartphones. As a kid if you asked me what I wanted for Christmas I would have told you I wanted a hover craft because I swore I saw one in my Boy's Life, Boy Scout Magazine. <br>*Actually after a quick google search I have been vindicated!* <br>
+<b>Here is the exact ad I saw!</b><br>
+<img src="http://middleagedmormonman.com/home/wp-content/uploads/2014/09/Hovercraft.jpg" align="left"> Sorry about that, nostoligia is always a distracting thought. So I started to look into my options and what would be the most doable career change. Maybe the building rocketships ship has sailed for a man who's married and on the less slender side of 25. I had a very quick stint in web design helping my buddy input data on his ecommerce site when I was younger, so I decided to start my creative tech career right where I left off, the very begining of HTML. Little by little I began to teach myself how to make websites and I loved the challenge of figuring out the code. So once I made enough dummy sites I decided I could get paid for these sites, so that's what I did! I realized that once I knew what I was doing there was really no more fun in it and it was pretty boring moving images around and choosing different fonts. I needed more of a challenge. I needed to be able to tinker again. So started to look into programming, I heard about The Flatiron school and the rest is history!
+
+
+
+
+
